@@ -1,0 +1,17 @@
+   <? xml version="1.0" ?>
+   <Mod>
+		<Id>seans-smarter-limbs</Id> 
+		<Name>Smarter Damage</Name> 
+		<Version>1.2.5</Version>
+		<SupportedVersion>1.4</SupportedVersion>
+		<Author>Sean Doe</Author>
+		<Tag>Script</Tag>
+		<Tag>Gameplay Changes</Tag>
+		<ModDependency>
+		</ModDependency>
+		<Description>Adds a limb damage system that replaces the normal health system</Description>
+		<Thumbnail>Data/Images/not_rat.jpg</Thumbnail>
+		<PreviewImage>Data/Images/not_workshop_preview.png</PreviewImage>
+		<Category>Gameplay</Category>
+		<LevelHookFile>Data/Scripts/SeansLimbBreakage/tracklimbs.as</LevelHookFile>
+   </Mod>
